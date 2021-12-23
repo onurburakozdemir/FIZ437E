@@ -15,7 +15,7 @@ We used cute pictures of:
 - 1866 pictures of cows
 - 2623 pictures of horses
 - 1820 pictures of sheeps
-- 
+
 ## Results and Final Plots
 The resuts are found to be %57 accuracy with MLP and %x accuracy with CNN.
 ![image]()
