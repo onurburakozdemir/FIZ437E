@@ -24,3 +24,9 @@ The resuts are found to be %57 accuracy with MLP and %78 accuracy with CNN.
 <br/><br/>
 ![image](https://github.com/onurburakozdemir/FIZ437E/blob/main/HW4/grafikmlp.png)
 ![image](https://github.com/onurburakozdemir/FIZ437E/blob/main/HW4/grafikcnn.png)
+## References 
+- https://github.com/pytorch/tutorials
+- https://github.com/bentrevett/pytorch-image-classification
+- https://medium.com/swlh/deep-learning-for-image-classification-creating-cnn-from-scratch-using-pytorch-d9eeb7039c12
+- https://towardsdatascience.com/wtf-is-image-classification-8e78a8235acb
+- https://pytorch.org/tutorials/
