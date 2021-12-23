@@ -1,4 +1,4 @@
-# Animal Image Classification
+# HW4 Animal Image Classification
 In this homework we will test different machine learning models on animal classification problem (cow, sheep, horse). We'll start by implementing a convolutional neural network (CNN) and then move on to multilayer perceptron (MLP) architecture. Finally we will compare the two methods for image classification. 
 
 ## Methods
