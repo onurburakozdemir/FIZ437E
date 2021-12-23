@@ -12,9 +12,9 @@ In this homework we will test different machine learning models on animal classi
 ## About The Data
 We used cute pictures of:
 
-- 1866 pictures of cows
-- 2623 pictures of horses
-- 1820 pictures of sheeps
+- 1866 cows
+- 2623 horses
+- 1820 sheeps
 <br/><br/>
 Here are some examples our images:
 ![image](https://github.com/onurburakozdemir/FIZ437E/blob/main/HW4/hayvanlar.jpeg)
